@@ -1,4 +1,4 @@
-# whgbot-slack
+# twitch-slack-webhook
 An outgoing webhook bot for slack (https://slack.com/), that spits out information about twitch streams and videos linked.
 
 ![Preview](http://i.imgur.com/cVSFhrJ.png "Preview")
