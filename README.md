@@ -1,7 +1,7 @@
 # whgbot-slack
-A bot for slack (https://slack.com/), configured for WHG.
+A bot for slack (https://slack.com/), that spits out information about twitch streams and videos linked.
 
-Currently only spits out information about twitch.tv videos and streams.
+![Preview](http://i.imgur.com/cVSFhrJ.png "Preview")
 
 # I forked this, what now?
 ## Development
